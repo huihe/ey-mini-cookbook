@@ -53,4 +53,4 @@ use thin for web app
 msuper usage
 --------------
 check below
-> ey-mini-cookbook/cookbooks/modern_cipher_nginx/
+> ey-mini-cookbook/cookbooks/modern_cipher_nginx/ [https://github.com/huihe/ey-mini-cookbook/tree/master/cookbooks/modern_cipher_nginx]
